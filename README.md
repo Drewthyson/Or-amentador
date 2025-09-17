@@ -12,38 +12,21 @@ Ele simula as etapas que normalmente seriam feitas manualmente no site, mas de f
 
 ---
 
-## 📦 Instalação das dependências
-
-Antes de rodar o script, instale as dependências:
-
-```bash
-pip install -r requirements.txt
-````
-
-Se preferir, instale apenas a principal biblioteca necessária:
-
-```bash
-pip install requests
-```
-
----
-
 ## ▶️ Como usar
 
-1. Clone este repositório:
+1. Clone ou baixe este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/Drewthyson/criador-de-orcamentos-fotovoltaicos.git
    ```
 
-2. Execute o script:
+1. Execute o script:
 
    ```bash
    python Orçamentador.py
    ```
 
-3. O programa irá:
+2. O programa irá:
 
    * Solicitar **email** e **senha** para autenticação na API;
    * Exibir os módulos disponíveis;
@@ -60,6 +43,22 @@ pip install requests
 * Geração de diferentes orçamentos variando a quantidade de placas
 * Cálculo automático do frete
 * Exibição do valor total do orçamento
+
+---
+
+## 📦 Instalação das dependências
+
+Antes de rodar o script, instale as dependências:
+
+```bash
+pip install -r requirements.txt
+````
+
+Se preferir, instale apenas a principal biblioteca necessária:
+
+```bash
+pip install requests
+```
 
 ---
 
