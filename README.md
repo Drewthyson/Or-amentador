@@ -57,16 +57,6 @@ Ele simula as etapas que normalmente seriam feitas manualmente no site, mas de f
 
 ---
 
-## 📂 Estrutura do projeto
-
-```
-.
-├── Orçamentador.py   # Script principal
-└── requirements.txt  # Lista de dependências
-```
-
----
-
 ## 📜 Licença
 
 Este projeto é de uso interno e experimental.
