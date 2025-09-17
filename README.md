@@ -8,7 +8,6 @@ Ele simula as etapas que normalmente seriam feitas manualmente no site, mas de f
 ## 🚀 Pré-requisitos
 
 - Python 3.8 ou superior instalado
-- Acesso à internet
 - Biblioteca `requests`
 
 ---
