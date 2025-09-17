@@ -19,8 +19,19 @@ Ele simula as etapas que normalmente seriam feitas manualmente no site, mas de f
    ```bash
    git clone https://github.com/Drewthyson/criador-de-orcamentos-fotovoltaicos.git
    ```
+   Antes de rodar o script, instale as dependências:
 
-1. Execute o script:
+   ```bash
+   pip install -r requirements.txt
+   ````
+
+   Se preferir, instale apenas a principal biblioteca necessária:
+
+   ```bash
+   pip install requests
+   ```
+
+2. Execute o script:
 
    ```bash
    python Orçamentador.py
@@ -43,22 +54,6 @@ Ele simula as etapas que normalmente seriam feitas manualmente no site, mas de f
 * Geração de diferentes orçamentos variando a quantidade de placas
 * Cálculo automático do frete
 * Exibição do valor total do orçamento
-
----
-
-## 📦 Instalação das dependências
-
-Antes de rodar o script, instale as dependências:
-
-```bash
-pip install -r requirements.txt
-````
-
-Se preferir, instale apenas a principal biblioteca necessária:
-
-```bash
-pip install requests
-```
 
 ---
 
